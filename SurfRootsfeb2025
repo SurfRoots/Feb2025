@@ -1,0 +1,38 @@
+<rotator>
+
+  <panel>
+    <number>1</number>
+    <image>https://github.com/SurfRoots/newradioapppanel/blob/main/Panel2.jpg?raw=true</image>
+    <url>https://surfroots.com</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>2</number>
+    <image>https://github.com/SurfRoots/newradioapppanel/blob/main/Panel3.jpg?raw=true</image>
+    <url>https://surfroots.tv/</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>3</number>
+    <image>https://github.com/SurfRoots/newradioapppanel/blob/main/Panel4.jpg?raw=true</image>
+    <url>https://surfroots.com/collections</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>4</number>
+    <image>https://github.com/SurfRoots/newradioapppanel/blob/main/Panel5.jpg?raw=true</image>
+    <url>https://www.instagram.com/surfroots/</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>5</number>
+    <image>https://github.com/SurfRoots/newradioapppanel/blob/main/elevadoAD.jpg?raw=true</image>
+    <url>https://www.elevadodrinks.com</url>
+    <redirect>n</redirect>
+  </panel>
+
+</rotator>
