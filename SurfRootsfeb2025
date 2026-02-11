@@ -2,14 +2,14 @@
 
   <panel>
     <number>1</number>
-    <image>https://github.com/SurfRoots/Feb2025/blob/main/Panel2.jpg?raw=true</image>
+    <image>https://github.com/SurfRoots/Feb2025/blob/main/Sublimeapppanel.png?raw=true</image>
     <url>https://surfroots.com</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>2</number>
-    <image>https://github.com/SurfRoots/Feb2025/blob/main/panel2new20year2640x400.jpg?raw=true</image>
+    <image>https://github.com/SurfRoots/Feb2025/blob/main/Panel3.jpg?raw=true?raw=true</image>
     <url>https://surfroots.tv/</url>
     <redirect>n</redirect>
   </panel>
@@ -30,8 +30,8 @@
   
   <panel>
     <number>5</number>
-    <image>https://github.com/SurfRoots/Feb2025/blob/main/adamjpeg.jpg?raw=true</image>
-    <url>https://www.smkflwr.com</url>
+    <image>https://github.com/SurfRoots/Feb2025/blob/main/Panel2.jpg?raw=true</image>
+    <url>https://www.surfroots.com</url>
     <redirect>n</redirect>
   </panel>
 
